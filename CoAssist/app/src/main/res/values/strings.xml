@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Probleme_Co_Assist</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="error_login">Error on the password or login</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="name_button_registration">Registration</string>
+    <string name="shared_pref_key">shared.pref.pb</string>
+</resources>
